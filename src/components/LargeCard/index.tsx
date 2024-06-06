@@ -17,7 +17,8 @@ export const LargeCard = () =>{
 
 
                 <div className="w-1/2 h-full">
-
+                <p className="pl-5 pt-5 text-[1.7rem] text-[#151515] font-mono font-semibold">Whether bigger or smaller.</p>
+                        <p className="pl-5 pt-2 font-semibold font-mono text-[1.04rem]">We implement every project for you using the best technologies and at an academic level without compromise.</p>
                 </div>
             </div>
         </div>

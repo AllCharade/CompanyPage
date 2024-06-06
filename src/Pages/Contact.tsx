@@ -3,7 +3,7 @@ import { ContactStripe } from "../components/ContactStripe";
 import { Description } from "../components/Description";
 import { Footer } from "../components/Footer";
 import { Heading } from "../components/Heading";
-import { Navbar } from "../components/Navbar";
+import { Navbar } from "../components/Navbar"; 
 
 function App() {
   return (
